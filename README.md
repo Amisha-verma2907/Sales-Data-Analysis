@@ -21,5 +21,4 @@ This project analyzes sales data using Microsoft Excel to identify trends in rev
 - Analyzed customer contribution to total sales
 - Visualized monthly revenue and profit trends
 
-## Dashboard Preview
-![Dashboard](Screenshot 2026-03-12 005858.png)
+
