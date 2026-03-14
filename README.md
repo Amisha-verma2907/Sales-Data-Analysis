@@ -22,4 +22,4 @@ This project analyzes sales data using Microsoft Excel to identify trends in rev
 - Visualized monthly revenue and profit trends
 
 ## Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](Screenshot 2026-03-12 005858.png)
